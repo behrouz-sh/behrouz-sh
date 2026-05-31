@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a **Frontend Developer** based in Iran with about **1 year** of hands-on experience building web interfaces. I enjoy turning ideas into clean, responsive UIs using modern tools like **React** and **Tailwind CSS**.
+I'm a **Frontend Developer** based in Iran with about **1 year** of experience. I don't just write code — I think about how things look, feel, and work for the people using them.
 
-I'm not just focused on where I am today — I'm actively working toward becoming a **Full-Stack Developer** and eventually stepping into the **DevOps** world. I believe in writing *clean code*, learning every day, and building things that actually matter.
+I'm someone who sweats the small stuff: spacing, transitions, the way a button responds when you click it. To me, a good UI isn't just functional — it's something people enjoy using.
 
-When I'm not coding, I'm probably exploring new tools, reading about system design, or working on personal projects to sharpen my skills.
+I'm not stopping at frontend. My next move is **Backend**, and down the road, **DevOps**. I want to understand the full picture — from the interface all the way to the infrastructure.
 
 🔗 Let's connect on [LinkedIn](#)
 
